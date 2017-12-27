@@ -1,3 +1,5 @@
+(I have to admit that the codes in this repo are messy due to the deadline of the task)
+
 # Kaggle---Google-Local-visit-prediction
 ## Predict whether users will visit a business using BPR
 * Who should read this: People want to know how to implement BPR *(Bayesian Personalized Ranking from Implicit Feedback)* 
