@@ -25,3 +25,7 @@ https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2009-Bayesian_Personali
     - To get the better result, I set the lambda to -0.1,-0.1,-0.2 for user, positive items, negative items respectively.
     - For stochastic gradient descent, I stop it when it vibrates when alpha is 0.01. Actually, it can be better, but I am not that patient to wait.
 #### ( In the paper, it is said lambda should be positive, but this will lead to overflow.)
+
+# Kaggle---Google-rating-prediction
+
+I have uploaded the Latent Factor Model for rating prediction, which is included in the file
